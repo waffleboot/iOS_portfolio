@@ -30,3 +30,5 @@ So I can say that I have deep knowledge in UIKit (VC,CollectionViews,Tables),Cor
 # and a couple of contributino to open source community
 
 Dash (API Documentation Browser), Carthage
+
+![Widget](https://github.com/waffleboot/iOS_portfolio/blob/master/images/image4.PNG)
