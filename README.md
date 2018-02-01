@@ -27,7 +27,7 @@ And this is proof of concept https://www.youtube.com/watch?v=rTb9peS9X6c
 
 *So I can say that I have deep knowledge in UIKit (VC,CollectionViews,Tables),Core Animation (CALayers,implicit/explicit animations), Core Data (managed contexts in different dispatch queues,migration) but probably I need a some time to understand how to work with MapKit,AV for example.*
 
-# and a couple of contributino to open source community
+# and a couple of contribution to open source community
 
 Dash (API Documentation Browser), Carthage
 
